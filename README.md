@@ -20,22 +20,22 @@
 
 ## Файлы
 
-README.md - Прочитай меня
-.idea - PHPStorm
-fonts - шрифты для сайта
-image - картинки для базы данных
-img - картинки для сайта
-lib - библиотеки css
-pages - страницы сайта
-utilities - PHP регистрация
-for parents.php - страница для родителей
-index.php - основная страница
-katalog.php - каталог c БД
-lang.php - (не работает) изменение языка
-persacc.html - личный кабинет
-primer1.css - стили для primer1
-softpokup.css - стили для страницы совместной покупки
-style.css - основные стили
+- README.md - Прочитай меня
+- .idea - PHPStorm
+- fonts - шрифты для сайта
+- image - картинки для базы данных
+- img - картинки для сайта
+- lib - библиотеки css
+- pages - страницы сайта
+- utilities - PHP регистрация
+- for parents.php - страница для родителей
+- index.php - основная страница
+- katalog.php - каталог c БД
+- lang.php - (не работает) изменение языка
+- persacc.html - личный кабинет
+- primer1.css - стили для primer1
+- softpokup.css - стили для страницы совместной покупки
+- style.css - основные стили
 
 ## Ссылки
 
